@@ -48,8 +48,13 @@ A very simple Laravel 8 + Vue 2 + AdminLTE 3 based Curd Starter template for SPA
 - `php artisan db:seed`
 - `php artisan passport:install`
 - `npm install`
+- reference : https://www.npmjs.com/package/sass
+- Bila ada error, run `npm cache clean --force`
 - `npm run dev`
 - `php artisan serve`
+
+"sass": "~1.64.2",
+"bootstrap": "^5.3.2",
 
 ## Install with Docker
 
